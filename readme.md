@@ -6,7 +6,7 @@ Este projeto tem como objetivo aplicar e entender como executar uma função de 
 
 1. **Clone o repositório:**
     ```sh
-    git clone <URL-do-repositório>
+    git clone https://github.com/MathOak/go_merge_sort.git
     cd go_merge_sort
     ```
 
